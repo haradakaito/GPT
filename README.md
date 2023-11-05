@@ -1,2 +1,2 @@
-# GPT(Generative Pre-trained Transformer)
+# What is ChatGPT ?  
 
