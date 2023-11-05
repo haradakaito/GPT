@@ -1,2 +1,2 @@
-# What is ChatGPT ?  
+# What is GPT ?  
 
