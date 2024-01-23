@@ -1,5 +1,8 @@
 # What is GPT ?  
 ## 1. GPTとは
+![image](https://github.com/haradakaito/GPT/assets/75819611/5214c7dc-7d38-4dde-8f34-e68ae87f3124)
+
+
 ### 1.1. 教師なし学習フェーズ
 #### 1.1.1 事前学習用データセットについて
 ### 1.2 教師あり学習フェーズ
