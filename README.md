@@ -3,7 +3,7 @@
 ![画像1](https://github.com/haradakaito/GPT/assets/75819611/b804b76e-7379-44ec-b843-2f4cc8f0a41d)
 
 ### 1.1. 教師なし学習フェーズ
-![画像2](https://github.com/haradakaito/GPT/assets/75819611/28660442-0278-497f-96aa-32cd5243eea5)
+![画像13](https://github.com/haradakaito/GPT/assets/75819611/5d8f56ff-6350-4679-bfd7-c56958d61487)
 
 #### 1.1.1 事前学習用データセットについて
 ### 1.2 教師あり学習フェーズ
@@ -33,6 +33,3 @@
 
 #### 3.1.2 質問応答・翻訳タスク
 ![画像11](https://github.com/haradakaito/GPT/assets/75819611/882887b6-c8d1-4918-9b07-9dd42ff167a4)
-
-## 4. GPT-3.5への進化
-![画像12](https://github.com/haradakaito/GPT/assets/75819611/56dd935a-0460-489c-a19c-78fe844e12d5)
