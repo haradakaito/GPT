@@ -45,6 +45,9 @@ Wikipediaをクローリングすることは，評価データセットに対�
 ![画像8](https://github.com/haradakaito/GPT/assets/75819611/e3079d07-7cd8-4c02-b011-023c5e60ed2b)
 
 ## 3. GPT-3への進化
+GPT-2よりもさらに大量のデータ(約570GB)で，より大規模なモデルを学習させることで精度向上を図った．  
+特定タスクに特化したモデルよりも精度の高い汎用モデルの実現を目指した．  
+
 ### 3.1. GPT-3の性能評価
 ![画像9](https://github.com/haradakaito/GPT/assets/75819611/e9c6887a-f7d9-4518-a16c-122c3a84e4d9)
 
