@@ -1,6 +1,10 @@
 # What is GPT ?  
 ## 1. GPTとは
+GPTとは，Transformerベースの学習済み大規模言語モデルである．  
+教師なし学習による事前学習と教師あり学習によるファインチューニングを組み合わせた，半教師あり学習という手法を使用している．  
+
 ![画像1](https://github.com/haradakaito/GPT/assets/75819611/b804b76e-7379-44ec-b843-2f4cc8f0a41d)
+
 
 ### 1.1. 教師なし学習フェーズ
 ![画像13](https://github.com/haradakaito/GPT/assets/75819611/5d8f56ff-6350-4679-bfd7-c56958d61487)
@@ -33,3 +37,10 @@
 
 #### 3.1.2 質問応答・翻訳タスク
 ![画像11](https://github.com/haradakaito/GPT/assets/75819611/882887b6-c8d1-4918-9b07-9dd42ff167a4)
+
+## 参考
+GPT：RADFORD, Alec, et al. Improving language understanding by generative pre-training. 2018.
+![image](https://github.com/haradakaito/GPT/assets/75819611/3c1af117-a74c-45f0-ae9f-b45c19d659f1)
+
+GPT-1：
+GPT-2：
