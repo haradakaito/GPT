@@ -66,6 +66,6 @@ TriviaQAデータセットに対して，SOTAを達成している．質問応�
 ※ここからさらにUIやRLHF強化学習，画像とのマルチモーダル学習によって，GPT-3.5，GPT-4などの進化モデルに繋がっていく  
 
 ## 参考
-GPT：RADFORD, Alec, et al. Improving language understanding by generative pre-training. 2018.
-GPT-1：RADFORD, Alec, et al. Language models are unsupervised multitask learners. OpenAI blog, 2019, 1.8: 9.
-GPT-2：Brown, Tom, et al. "Language models are few-shot learners." Advances in neural information processing systems 33 (2020): 1877-1901.
+GPT：RADFORD, Alec, et al. Improving language understanding by generative pre-training. 2018.  
+GPT-1：RADFORD, Alec, et al. Language models are unsupervised multitask learners. OpenAI blog, 2019, 1.8: 9.  
+GPT-2：Brown, Tom, et al. "Language models are few-shot learners." Advances in neural information processing systems 33 (2020): 1877-1901.  
